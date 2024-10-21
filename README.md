@@ -17,5 +17,9 @@ For running the code I will be using python and jupyter notebook for setting up 
 
 One of the main dependancies is imputing the missing values, which have to be done correctly. Also the main requirements would be importing the necessary libraries for data manipulation and machine learning, such as numpy, pandas, matplotlib and sklearn. 
 
+## Folder Structure
+
+For the following repository, I have created a datasets folder for all of the data that I will using in this project. This will include the raw data that I will initially be using and also the clean data as well. I have also created a notebooks folder which will include the visualizations and charts used for my EDA as well as the final notebook with all the steps in sequential order from start to finish for my whole project. I also have a reports folder which include my drafts for the project report as well as the final folder for my final project report. Lastly, I have added a results folder which will include the EDA visualizations only as well as some calculated statistics.
+
 
 
